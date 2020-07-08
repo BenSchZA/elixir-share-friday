@@ -17,6 +17,8 @@ https://www.nerves-project.org/
 
 ## Companies using Elixir/Erlang/Phoenix
 
+https://elixir-companies.com/en/companies
+
 * Fintech: https://codesync.global/media/companies-that-use-erlang-and-elixir-in-fintech/
 * Elixir specifically: https://serokell.io/blog/elixir-companies
 * Elixir/Erlang: https://codesync.global/media/successful-companies-using-elixir-and-erlang/
