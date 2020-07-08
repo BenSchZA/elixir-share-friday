@@ -1,6 +1,8 @@
 # elixir-share-friday
 Elixir links and resources for "Share Friday" presentation
 
+* Some of the best documentation around: https://hexdocs.pm/
+
 ## 0. Elixir
 
 https://elixir-lang.org/getting-started/introduction.html
@@ -25,19 +27,19 @@ https://elixir-companies.com/en/companies
 * Discord: https://blog.discord.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3 - about Discord and how they use Elixir with Rust for scaling
 * WeChat, WhatsApp, and Facebook use Erlang
 
-## Projects
+## Learning Resources
+
+* https://elixirforum.com/
+* https://elixirschool.com/
+
+## Side Projects
+
+https://github.com/BenSchZA/cadex
+
+https://github.com/BenSchZA/phoenix-blog
 
 https://github.com/BenSchZA/kawapi-phoenix
 
 https://github.com/BenSchZA/scrapeth
 
 https://github.com/BenSchZA/phoenix-bells-and-whistles
-
-https://github.com/BenSchZA/phoenix-blog
-
-https://github.com/BenSchZA/cadex
-
-## Learning Resources
-
-* https://elixirforum.com/
-* https://elixirschool.com/
