@@ -15,6 +15,13 @@ https://github.com/phoenixframework/phoenix_live_view
 
 https://www.nerves-project.org/
 
+## Companies using Elixir/Erlang/Phoenix
+
+* Fintech: https://codesync.global/media/companies-that-use-erlang-and-elixir-in-fintech/
+* Elixir specifically: https://serokell.io/blog/elixir-companies
+* Discord: https://blog.discord.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3 - about Discord and how they use Elixir with Rust for scaling
+* WeChat, WhatsApp, and Facebook use Erlang
+
 ## Projects
 
 https://github.com/BenSchZA/kawapi-phoenix
