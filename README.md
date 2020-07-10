@@ -3,17 +3,25 @@ Elixir links and resources for "Share Friday" presentation
 
 * Some of the best documentation around: https://hexdocs.pm/
 
-## 0. Elixir
+## 0. Erlang
+
+* OTP: "Open Telecom Platform" - Elixir/Erlang standard library
+  * GenServers, Supervisors, fault tolerance, distribution, reliability
+  * Actor model for communication between processes, managment of processes, creating data pipelines, everything you'd originally need for telecoms
+
+## 1. Elixir
+
+Inspiration from Rails. Makes the features of Erlang more approachable. Similar syntax and great developer experience as Ruby. Adopts MVC model.
 
 https://elixir-lang.org/getting-started/introduction.html
 
-## 1. Phoenix Framework
+## 2. Phoenix Framework
 
 https://phoenixframework.org/
 
 https://github.com/phoenixframework/phoenix_live_view
 
-## 2. Nerves Project
+## 3. Nerves Project
 
 https://www.nerves-project.org/
 
